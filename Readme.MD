@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://kuldeepghorpade05.github.io/Portfolio-kuldeep-ghorpade/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://kuldeep-ghorpade-portfolio.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
