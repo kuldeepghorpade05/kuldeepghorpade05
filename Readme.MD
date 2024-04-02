@@ -1,7 +1,17 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Kuldeep Ghorpade </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-- I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
+- I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas ❤
+
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+
+- 👁‍🗨 What's Special about me?
+Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+
+- 📘 I’m Currently Studying New New Tech Stack for Expanding My Skills set and Knowledge
+
+- 👯 I’m looking to collaborate on OpenSource Projects
+
 - 🌱 Learning Never Stops 🚀
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
