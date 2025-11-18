@@ -3,15 +3,13 @@
 
 I'm Into Backend Engineering | Cloud Computing | Networking | DevOps | Reverse Engineering | Log Investigator | Open Source Contributor | Runtime Logging | Debugging at Scale : Log |  Systems Troubleshooter turning noisy logs into actionable fixes. Reverse-engineering binaries and protocols to identify unexpected behavior, write reproducible dynamic traces, and build log-parsing pipelines that reduce mean-time-to-resolution. Passionate about open-source: I publish parsers, retrospective, and automation to help teams diagnose incidents faster.
 
+🌱 Learning Never Stops 🚀 | Happy Coding! 🖥️👨‍💻
+
 📫 You can reach me at 👉Kuldeepghorpade05@gmail.com
 
-Happy Coding! 🖥️👨‍💻
-
-🌱 Learning Never Stops 🚀
+Linkedin --> https://www.linkedin.com/in/kuldeep-ghorpade/
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://kuldeep-ghorpade-portfolio.netlify.app/" target="_blank">Portfolio</a>**
-
-- 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
