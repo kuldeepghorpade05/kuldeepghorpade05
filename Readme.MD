@@ -1,18 +1,15 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Kuldeep Ghorpade </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-- I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas ❤
+I'm Into Backend Engineering | Cloud Computing | Networking | DevOps | Reverse Engineering | Log Investigator | Open Source Contributor | Runtime Logging | Debugging at Scale : Log |  Systems Troubleshooter turning noisy logs into actionable fixes. Reverse-engineering binaries and protocols to identify unexpected behavior, write reproducible dynamic traces, and build log-parsing pipelines that reduce mean-time-to-resolution. Passionate about open-source: I publish parsers, retrospective, and automation to help teams diagnose incidents faster.
 
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+📫 You can reach me at 👉Kuldeepghorpade05@gmail.com
 
-- 👁‍🗨 What's Special about me?
-Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+Github - https://github.com/kuldeepghorpade05
 
-- 📘 I’m Constantly Studying New Tech Stack for Expanding My Skills set and Knowledge
+Happy Coding! 🖥️👨‍💻
 
-- 👯 I’m looking to collaborate on OpenSource Projects
-
-- 🌱 Learning Never Stops 🚀
+🌱 Learning Never Stops 🚀
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://kuldeep-ghorpade-portfolio.netlify.app/" target="_blank">Portfolio</a>**
 
@@ -23,7 +20,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
   <a href="https://www.linkedin.com/in/kuldeep-ghorpade-89116a251/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kuldeepghorpade05@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/kuldeep_ghorpade_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/Kuldeep_ghorpade"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
