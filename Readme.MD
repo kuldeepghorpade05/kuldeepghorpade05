@@ -8,13 +8,11 @@
 - 👁‍🗨 What's Special about me?
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
-- 📘 I’m Currently Studying New New Tech Stack for Expanding My Skills set and Knowledge
+- 📘 I’m Constantly Studying New Tech Stack for Expanding My Skills set and Knowledge
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
 - 🌱 Learning Never Stops 🚀
-
-- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://kuldeep-ghorpade-portfolio.netlify.app/" target="_blank">Portfolio</a>**
 
