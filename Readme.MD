@@ -9,7 +9,7 @@ I'm Into Backend Engineering | Cloud Computing | Networking | DevOps | Reverse E
 
 Linkedin --> https://www.linkedin.com/in/kuldeep-ghorpade/
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://kuldeep-ghorpade-portfolio.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://kuldeep-ghorpade-port1-fend.vercel.app/" target="_blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
